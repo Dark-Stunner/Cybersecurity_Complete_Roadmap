@@ -1,12 +1,31 @@
-CyberSecurity:
-CyberSecurity is the act of protecting computers, servers, mobile devices, electronic frameworks, organizations and information from malicious threats.
+# 🛡️ CyberSecurity
 
-Importance of CyberSecurity:
-The importance of cybersecurity is to protect the personal data, financial assets, business operations and critical infrastructure from digital attacks/thefts and distruption.
+## 📑 Table of Contents
+- [What is CyberSecurity?](#-what-is-cybersecurity)
+- [Importance of CyberSecurity](#-importance-of-cybersecurity)
+- [Careers in CyberSecurity](#-careers-in-cybersecurity)
 
-Careers in CyberSecurity:
-With the rising number of cyber attacks, each and every businessess are gradually understanding the threat landscape and seeking qualified professionals to join and secure their organization.
+---
 
-Security Specialist - Primary role is to protect a organization's software and network security system.
-Incident Responder - Responsible for quickly resolving threat issues and taking necessary steps to prevent any further such attacks.
-Security Analyst - Their role is to ferret out the weakness of an orgnaization infrastructure and find new ways to protect it.
+## 🛡️ What is CyberSecurity?
+
+**CyberSecurity** is the practice of protecting computers, servers, mobile devices, electronic systems, networks, and data from malicious threats.
+
+## 🔒 Importance of CyberSecurity
+
+The importance of cybersecurity lies in safeguarding personal data, financial assets, business operations, and critical infrastructure against digital attacks, theft, and disruption.
+
+## 💼 Careers in CyberSecurity
+
+With the rising number of cyber attacks, organizations across industries are increasingly recognizing the evolving threat landscape and actively seeking qualified professionals to protect their systems and data.
+
+- **Security Specialist** – Primary role is to protect an organization’s software and network security systems.
+- **Incident Responder** – Responsible for rapidly resolving threat incidents and implementing measures to prevent recurrence.
+- **Security Analyst** – Identifies weaknesses in an organization’s infrastructure and develops improved methods of protection.
+- **Security Administrator** – Maintains the complete cybersecurity system, ensuring it operates securely and optimally.
+- **Security Manager** – Oversees the overall cybersecurity posture of an organization and allocates resources and authority to team members.
+- **Security Auditor** – Audits the security systems of an organization to protect it from cyber criminals.
+- **Security Engineer** – Monitors and performs log analysis of multi-vendor security solutions.
+- **Forensic Expert** – Analyzes the causes of a breach, how it occurred, and who carried out the attack.
+- **Vulnerability Assessor** – Identifies and analyzes potential weaknesses in cybersecurity systems.
+- **Penetration Tester** – Ethically attempts to breach an organization’s systems to evaluate the strength of its security controls rather than to steal data.
