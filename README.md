@@ -1,31 +1,60 @@
-# 🛡️ CyberSecurity
+🚀 Just published something I’ve been building for a long time…
 
-## 📑 Table of Contents
-- [What is CyberSecurity?](#-what-is-cybersecurity)
-- [Importance of CyberSecurity](#-importance-of-cybersecurity)
-- [Careers in CyberSecurity](#-careers-in-cybersecurity)
+A complete Zero → Advanced Cybersecurity Specialist Roadmap
+After seeing so many beginners get lost in random YouTube videos, expensive courses, and “certificate collecting,” I decided to create a structured, realistic, and practical path that actually works.
 
----
+🔗 GitHub Repository:
+[github.com/Dark-Stunner/Cybersecurity_Complete_Roadmap](https://github.com/Dark-Stunner/Cybersecurity_Complete_Roadmap)
 
-## 🛡️ What is CyberSecurity?
+What’s inside:
+✅ Phase 0 – Orientation
+Clear understanding of Red Team, Blue Team, Cloud, AppSec, GRC & specialized domains
 
-**CyberSecurity** is the practice of protecting computers, servers, mobile devices, electronic systems, networks, and data from malicious threats.
+✅ Phase 1 – IT Foundations (Months 1-3)
+OS (Windows + Linux), Networking (the real foundation), Python/Bash/PowerShell, and building a proper home lab
 
-## 🔒 Importance of CyberSecurity
+✅ Phase 2 – Security Fundamentals (Months 3-6)
+CIA triad, MITRE ATT&CK, Cryptography, OWASP Top 10, and CompTIA Security+ as the first solid certification
 
-The importance of cybersecurity lies in safeguarding personal data, financial assets, business operations, and critical infrastructure against digital attacks, theft, and disruption.
+✅ Phase 3 – Hands-on + Path Selection (Months 6-12)
+Sampling both Red & Blue Team, building a visible portfolio of write-ups, and becoming job-ready for entry-level roles
 
-## 💼 Careers in CyberSecurity
+✅ Phase 4 – Professional Entry & Intermediate (Year 1-2)
+Deep specialization tracks:
+🔴 Penetration Testing / Red Team
+🔵 SOC / Incident Response / Threat Hunting
+☁️ Cloud Security
+💻 Application Security / DevSecOps
+📋 GRC
 
-With the rising number of cyber attacks, organizations across industries are increasingly recognizing the evolving threat landscape and actively seeking qualified professionals to protect their systems and data.
+✅ Phase 5 – Advanced Specialist (Year 3-5+)
+Exploit development, advanced forensics, detection engineering at scale, security architecture, and niche domains
 
-- **Security Specialist** – Primary role is to protect an organization’s software and network security systems.
-- **Incident Responder** – Responsible for rapidly resolving threat incidents and implementing measures to prevent recurrence.
-- **Security Analyst** – Identifies weaknesses in an organization’s infrastructure and develops improved methods of protection.
-- **Security Administrator** – Maintains the complete cybersecurity system, ensuring it operates securely and optimally.
-- **Security Manager** – Oversees the overall cybersecurity posture of an organization and allocates resources and authority to team members.
-- **Security Auditor** – Audits the security systems of an organization to protect it from cyber criminals.
-- **Security Engineer** – Monitors and performs log analysis of multi-vendor security solutions.
-- **Forensic Expert** – Analyzes the causes of a breach, how it occurred, and who carried out the attack.
-- **Vulnerability Assessor** – Identifies and analyzes potential weaknesses in cybersecurity systems.
-- **Penetration Tester** – Ethically attempts to breach an organization’s systems to evaluate the strength of its security controls rather than to steal data.
+The roadmap includes:
+Realistic timelines
+Weekly time allocation
+Free & high-quality resources
+Milestone checkpoints
+Certification paths for every track
+Essential tools
+Portfolio & documentation strategy
+My core belief while creating this:
+Hands-on practice and consistent documentation beat certificate hoarding every single time.
+
+If you’re:
+Just starting in cybersecurity
+Stuck in the “tutorial hell”
+Looking for a clear career path
+Or hiring and want to see structured learners
+…this might be useful for you.
+
+⭐ Star the repo if it helps
+💬 Drop a comment if you want me to expand any phase
+🔁 Share it with someone who’s currently struggling to find direction
+
+I’m open to feedback, contributions, and connecting with professionals & recruiters in the cybersecurity space.
+
+Let’s build the next generation of ethical and skilled security professionals the right way.
+
+#Cybersecurity #InfoSec #CyberSecurityRoadmap #RedTeam #BlueTeam #SOCAnalyst #PenetrationTesting #CloudSecurity #AppSec #GRC #CareerInCybersecurity #TryHackMe #HackTheBox #SecurityPlus #OSCP
+
